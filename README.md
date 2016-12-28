@@ -14,3 +14,6 @@ clone 不同分支： `git clone -b <branch> https://github.com/MJPiero/gulp-bui
 
 默认分支是用于编写lib时快速搭建好打包环境。
 
+## Issues
+
+[click me](https://github.com/MJPiero/gulp-build/issues) 
