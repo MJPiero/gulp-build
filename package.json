@@ -1,0 +1,38 @@
+{
+  "name": "gulp-build",
+  "version": "1.0.0",
+  "description": "整理一套基于gulp的各场景打包配置",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJPiero/gulp-build.git"
+  },
+  "keywords": [
+    "mjpiero",
+    "majing",
+    "gulp",
+    "gulp-build"
+  ],
+  "author": "majing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJPiero/gulp-build/issues"
+  },
+  "homepage": "https://github.com/MJPiero/gulp-build#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-header": "^1.8.8",
+    "gulp-if": "^2.0.2",
+    "gulp-jshint": "^2.0.3",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-uglify": "^2.0.0",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "run-sequence": "^1.2.2"
+  }
+}

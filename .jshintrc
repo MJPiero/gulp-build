@@ -1,0 +1,15 @@
+{
+    "asi": false,
+    "boss": false,
+    "laxbreak": false,
+    "curly": true,
+    "eqeqeq": true,
+    "undef": true,
+    "noarg": true,
+    "sub": true,
+    "newcap": true,
+    "node": true,
+    "loopfunc": true,
+    "shadow": true,
+    "freeze": true
+}

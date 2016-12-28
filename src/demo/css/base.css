@@ -1,0 +1,11 @@
+body {
+    font-family: 'Microsoft Yahei', 微软雅黑, Tahoma, Helvetica, Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.header {
+    width: 100%;
+    margin-bottom: 0;
+    background-color: #538FD0;
+    box-shadow: rgba(0, 0, 0, 0.0980392) 0px 1px 10px 0px;
+}
