@@ -1,4 +1,7 @@
 # gulp-build
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/MJPiero/gulp-build.svg)](https://greenkeeper.io/)
+
 整理一套基于gulp的各场景打包配置。
 
 每个分支是不同场景的配置。
